@@ -1,3 +1,2 @@
 # QuantLib-Python
-this is the study notes for using QuantLib library in Python
-the study was using Jupyter Notebook
+this is the self study notes for using QuantLib library in Python with Jupyter Notebook
